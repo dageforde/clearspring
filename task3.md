@@ -1,0 +1,3 @@
+# Task 3 Approach
+
+Taking this assignment very literally, I believe that the quickest way to do this would be by visually identifying issues and manually changing values. Since the file that is failing is relatively small, I can open the file and visually examine its contents on the lines that are throwing the errors. Upon examination, I assume that these files are failing because a required field (`StartDate`) is null, with the date being written to the following row. I could fix this manually by copying the date value from the following row to the NULL `StartDate` field and removing the following extraneous row.

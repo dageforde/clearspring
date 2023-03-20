@@ -1,0 +1,4 @@
+# Priorities
+1. Task 3 is highest priority, since there are errors affecting production. It's also possible that Task 2 will not be possible before completing task 3.
+2. Task 1; After production errors, After production errors, I want to prioritize more time-intensive tasks first to ensure that I have the maximum amount of time to complete them. Task 1 requires, at least, some 1:1 time with SME so I want to begin this task before ones that I can complete on my own
+3. Task 2 requires the least amount of input from the fewest number of people. It's something I can handle on my own and likely something that can be completed fairly quickly. This makes it a good candidate to prioritize last.
